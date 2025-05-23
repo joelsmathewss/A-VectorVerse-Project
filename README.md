@@ -1,1 +1,1 @@
-#A VectorVerse Project
+A VectorVerse Project
